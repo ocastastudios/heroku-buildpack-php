@@ -5,12 +5,12 @@
 set -e
 
 # config
-APACHE_VERSION="2.4.6"
+APACHE_VERSION="2.4.5"
 APACHE_PATH="apache"
-PHP_VERSION="5.5.4"
+PHP_VERSION="5.5.5"
 PHP_PATH="php"
 BUILDPACK_VERSION="2.0-a9"
-OPT_BUILDPACK_URL="http://vulcan-os.herokuapp.com/output/e9f21438-378a-45d2-b65d-af44b5a6b146"
+OPT_BUILDPACK_URL="http://vulcan-os.herokuapp.com/output/f2925591-ff24-462d-8640-2b188aac4355"
 
 BIN_DIR=$(dirname $0)
 BUILD_DIR=$1
